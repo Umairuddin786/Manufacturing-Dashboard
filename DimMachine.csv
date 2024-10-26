@@ -1,0 +1,11 @@
+MachineID,MachineName,Type,Location
+1,Assembler 3000,Cutter,Assembly Line A
+2,Cutter X5,Assembler,Factory Floor 1
+3,Welding Station Alpha,Injection Molder,Factory Floor 1
+4,Packaging Line B,Packaging Line,Factory Floor 1
+5,Injection Molder Pro,Packaging Line,Factory Floor 2
+6,Laser Engraver L2,Welding Station,Factory Floor 2
+7,CNC Router R5,Cutter,Assembly Line B
+8,Press Machine P10,Coating Booth,Assembly Line B
+9,Coating Booth C3,Cutter,Factory Floor 1
+10,Paint Sprayer S7,Paint Sprayer,Assembly Line B

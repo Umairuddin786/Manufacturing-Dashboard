@@ -1,0 +1,11 @@
+DepartmentID,DepartmentName,Manager,Location
+1,Assembly,Casey Moss,Factory Floor 1
+2,Packaging,Melinda Wang,Research Lab
+3,Quality Control,Tanya Kline,Factory Floor 1
+4,Maintenance,Diana Hendricks,Warehouse
+5,Logistics,Alexander Thornton,Warehouse
+6,Research & Development,Cheryl Jenkins,Warehouse
+7,Procurement,Mr. Aaron Nicholson DDS,Warehouse
+8,Customer Support,Mrs. Jamie Martinez MD,Research Lab
+9,Engineering,Roberto Garcia,Factory Floor 2
+10,Human Resources,Micheal Richardson,Head Office

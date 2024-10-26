@@ -1,0 +1,11 @@
+FinanceAccountID,FinanceAccountName,AccountType
+1,Product Sales Revenue,Marketing Expenses
+2,Service Sales Revenue,Utilities
+3,Cost of Goods Sold,Sales Revenue
+4,Marketing Expenses,Marketing Expenses
+5,Research & Development Expenses,Maintenance Costs
+6,Administrative Expenses,Interest Expenses
+7,Maintenance Costs,Research & Development
+8,Utilities Expenses,Revenue
+9,Sales Revenue,Operating Expenses
+10,Interest Expenses,Sales Revenue
